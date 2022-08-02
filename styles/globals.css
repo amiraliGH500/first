@@ -33,4 +33,7 @@ a {
   body{
     @apply bg-[#06202a] text-gray-300;
   }
+  h1{
+    @apply text-[#06202a]
+  }
 }
